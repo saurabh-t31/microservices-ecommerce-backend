@@ -1,6 +1,6 @@
 **Spring Boot Microservices E-Commerce Backend**
 
-1. Project Overview.
+1. Project Overview
 This project is a microservices-based e-commerce backend system developed using Spring Boot and Spring Cloud.
 It demonstrates real-world backend design concepts such as service discovery, API gateway routing, synchronous and asynchronous communication, and fault tolerance.
 Each service is developed independently to ensure scalability, resilience, and loose coupling.
